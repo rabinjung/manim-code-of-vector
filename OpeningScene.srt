@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:03,525
+Hey there, future physicists! Today we're
+
+2
+00:00:03,625 --> 00:00:06,356
+diving into Scalars and Vectors.
+
+3
+00:00:14,466 --> 00:00:18,143
+Scalar having magnitude But not have Direction
+
+4
+00:00:18,243 --> 00:00:20,606
+like east west south and north
+
+5
+00:00:21,716 --> 00:00:25,923
+vector having magnitude and also specified Direction
+
+6
+00:00:26,023 --> 00:00:28,408
+like east west south and north
+
+7
+00:00:29,516 --> 00:00:32,584
+some of scalar quantity example are:
+
+8
+00:00:36,700 --> 00:00:37,728
+Thermometer
+
+9
+00:00:39,833 --> 00:00:41,053
+speedometer
+
+10
+00:00:43,166 --> 00:00:44,338
+Weight scale
+
+11
+00:00:45,450 --> 00:00:47,270
+Introduction to vector
+
+12
+00:00:49,383 --> 00:00:52,405
+Vectors, on the other hand, are a bit
+
+13
+00:00:52,505 --> 00:00:56,963
+more demanding.They have both magnitude and direction.
+
+14
+00:01:04,066 --> 00:01:06,510
+some of example of vector are:
+
+15
+00:01:08,616 --> 00:01:11,612
+wind flows in specified direction
+
+16
+00:01:16,716 --> 00:01:18,944
+Arrow moving toward target
+
+17
+00:01:28,050 --> 00:01:32,270
+the line represent the numerical value called magnitude
+
+18
+00:01:33,383 --> 00:01:35,731
+arrow represent the direction
+
+19
+00:01:38,833 --> 00:01:42,165
+Scalar addition is a algerabic addition
+
+20
+00:01:51,266 --> 00:01:53,974
+Addition of vector A and B is:
+
+21
+00:01:57,083 --> 00:02:01,284
+In vector addition, the resultant vector is equal to the
+
+22
+00:02:01,384 --> 00:02:05,047
+tail of first vector to the tip of second vector.
+
+23
+00:02:05,150 --> 00:02:10,402
+line represent resultant magnititude and arrow represent direction
+
+24
+00:02:18,516 --> 00:02:22,352
+On multiple the above vector with scalar 2 unit
+
+25
+00:02:25,466 --> 00:02:28,918
+vector magnitude increase by 2 times
+
+26
+00:02:32,033 --> 00:02:37,098
+similarly, vector magnitude decrease by multiplying them
+
+27
+00:02:37,198 --> 00:02:39,589
+with scalars between 0 to 1
+
+28
+00:02:42,700 --> 00:02:46,128
+Its direction change in opposite direction
+
+29
+00:02:49,233 --> 00:02:51,989
+on multiply by negative scalar
+
+30
+00:02:56,100 --> 00:02:58,715
+Same magnitude but different directions
+
+31
+00:02:58,815 --> 00:03:00,944
+means they're different vectors.
+
+32
+00:03:07,050 --> 00:03:10,012
+This blue vector represent you are moving
+
+33
+00:03:10,112 --> 00:03:12,926
+in a east direction with some magnitude
+
+34
+00:03:15,033 --> 00:03:18,074
+yellow vector represent you are moving in
+
+35
+00:03:18,174 --> 00:03:20,909
+a north direction with same magnitude
+
